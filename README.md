@@ -4,7 +4,7 @@
 
 I'm a Front End Engineer with an ITIL Certification, contributing to world in technology.
 
-Exploring on below Tech Stack:
+Hands on below Tech Stack:
 
  - React
  
