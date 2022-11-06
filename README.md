@@ -1,4 +1,4 @@
-### Hey there 👋 &nbsp; I'm Kshiteej! 
+### Hey 👋 &nbsp; I'm Kshiteej Jain! 
 
 I'm a Front End Engineer with an ITIL Certification, contributing to world in technology.
 
