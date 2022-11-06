@@ -7,14 +7,14 @@ I'm a Front End Engineer with an ITIL Certification, contributing to world in te
 Hands on below Tech Stack:
 
  - React
+
+ - Redux
  
  - React Native
 
  - Next.js
 
  - JavaScript
-
- - TypeScript
 
  - WordPress
 
