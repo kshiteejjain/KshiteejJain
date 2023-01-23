@@ -1,6 +1,9 @@
-### Hey 👋 &nbsp; I'm Kshiteej Jain! 
+# I'am Kshiteej Jain!
+<img alt="Kshiteej Jain" width="130" src="https://user-images.githubusercontent.com/10721667/213986405-65cebdce-b4df-4f4c-8bff-d3162bbc6b41.jpeg" />
 
-I'm a Front End Engineer with an ITIL Certification, contributing to world in technology.
+
+### About Me:
+#### I'm a Front End Engineer with an ITIL Certification, contributing to world in technology.
 
 Hands on below Tech Stack:
 
