@@ -15,6 +15,8 @@ Hands on below Tech Stack:
 
  - Next.js
 
+ - Unit Testing
+
  - JavaScript
 
  - WordPress
